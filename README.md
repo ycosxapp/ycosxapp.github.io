@@ -1,2 +1,2 @@
-# ycosxapp.github.io
+# Infinity
 The home page of "Infinity".
